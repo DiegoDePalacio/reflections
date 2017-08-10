@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The .git folder was generated with the initial information of the Git structure, this is needed in order to have everything setup to start using the Git functionality
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Is a container in where some of the working directory files can be placed together in order to be able to commit multiple files that are all related to an specific logic change
+
