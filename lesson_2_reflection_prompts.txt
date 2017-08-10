@@ -6,3 +6,10 @@ How is the staging area different from the working directory and the repository?
 
 Is a container in where some of the working directory files can be placed together in order to be able to commit multiple files that are all related to an specific logic change
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Grouping all the changes of one logical change on the staging area and commit them, repeating the process until all of the logical changes on the working directory are committed to the repository
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+In where I need to create a complete feature with a lot of logical changes, without changing in the middle the master branch. The branches also help in making possible for developers in a team to work separately on large features and then only merge the features when ready.
